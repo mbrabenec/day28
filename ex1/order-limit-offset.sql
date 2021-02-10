@@ -1,0 +1,3 @@
+SELECT *
+FROM `cities`
+LIMIT 100
